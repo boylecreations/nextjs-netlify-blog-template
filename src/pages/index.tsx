@@ -16,7 +16,7 @@ export default function Index() {
             Hi, We're Next.js & Netlify - How Amazing, lets add Tailwind now.<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify. How Neat. Right?</h2>
+          <h2>A blog template with Next.js and Netlify. How Neat. Right? RIGHT?</h2>
           <SocialList />
         </div>
       </div>
